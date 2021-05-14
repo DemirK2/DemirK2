@@ -1,2 +1,14 @@
 # Payday 2 - One Down Skull
+- Last Played: **Jewelry Store**
 - [ ] Bain
+- [ ] Classics
+- [ ] Events
+- [ ] Hector
+- [ ] Jimmy
+- [ ] Jiu Feng
+- [ ] Locke
+- [ ] The Butcher
+- [ ] The Continental
+- [ ] The Dentist
+- [ ] The Elephant
+- [ ] Vlad
