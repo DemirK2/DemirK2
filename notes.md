@@ -1,4 +1,5 @@
-# Payday 2 | One Down Skull
+# Payday 2
+## One Down Skull
 - Last Played: **Transport: Park**
 - Skipped: **The Alesso Heist**, **Transport: Train Heist**
 - [ ] Bain
