@@ -1,5 +1,5 @@
 # Payday 2 - One Down Skull
-- Last Played: **Reservoir Dogs Heist**
+- Last Played: **The Alesso Heist**
 - [ ] Bain
 - [ ] Classics
 - [ ] Events
