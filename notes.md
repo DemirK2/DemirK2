@@ -1,5 +1,5 @@
 # Payday 2 - One Down Skull
-- Last Played: **Jewelry Store**
+- Last Played: **Reservoir Dogs Heist**
 - [ ] Bain
 - [ ] Classics
 - [ ] Events
