@@ -1,5 +1,6 @@
 # Payday 2 - One Down Skull
-- Last Played: **The Alesso Heist**
+- Last Played: **Transport: Park**
+- Skipped: **The Alesso Heist**, **Transport: Train Heist**
 - [ ] Bain
 - [ ] Classics
 - [ ] Events
